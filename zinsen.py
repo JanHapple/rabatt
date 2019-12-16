@@ -1,5 +1,5 @@
 bank_balance = 400
-interest = 1.5
+interest = 12
 start_year = 2019
 for x in range(25):
     bank_balance = bank_balance + bank_balance * (interest / 100)
